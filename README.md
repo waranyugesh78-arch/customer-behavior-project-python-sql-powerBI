@@ -133,8 +133,17 @@ customer-behavior-analysis/
 
 **Yugeshwaran**
 Aspiring Data Analyst | SQL • Python • Power BI
-📫 [LinkedIn](#linkedin.com/in/yugesh-waran-9840533a1) | 
 
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yugesh-waran-9840533a1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/waranyugesh78-arch" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
 ---
 
 ⭐ If you found this project useful, consider giving it a star on GitHub!
